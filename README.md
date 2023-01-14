@@ -1,3 +1,3 @@
 # http_server
-1.Termial中运行./proxy
-2.
+wsl中运行./proxy + 端口号
+
